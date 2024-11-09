@@ -32,7 +32,7 @@
       "KC_LBRC",
       "KC_RBRC",
       "KC_BSPC",
-      "KC_LCTL",
+      "MT(MOD_LCTL,KC_ESC)",
       "KC_A",
       "KC_S",
       "KC_D",
